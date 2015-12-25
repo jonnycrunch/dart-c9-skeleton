@@ -1,0 +1,5 @@
+name: dart_c9_skeleton
+author: Matan Lurey <matanl@google.com>
+description: A simple skeleton app for using Dart on Cloud9.
+homepage: https://github.com/matanlurey/dart_c9_skeleton
+version: 1.0.0
