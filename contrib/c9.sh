@@ -26,7 +26,6 @@ echo "Updating Dart SDK"
 sudo apt-get update
 sudo apt-get install dart
 echo "Add the following to your .bashrc: 'PATH=$PATH:/usr/lib/dart/bin'"
-echo "Add the following to your .bashrc: 'PATH=$PATH:~/.pub-cache/bin'"
 
 echo "Installing Dart format..."
 /usr/lib/dart/bin/pub global activate dart_style
